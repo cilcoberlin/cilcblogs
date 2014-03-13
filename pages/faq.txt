@@ -1,0 +1,400 @@
+==Frequently Asked Questions==
+===What is WordPress?===
+[http://wordpress.org WordPress] is a state-of-the-art semantic personal publishing platform with a focus on aesthetics, web standards, and usability. Often associated with a blog, WordPress is much more than a blog- it is a simple and easy-to-use web publishing platform that can allow you to build a web presence with little or no fuss! 
+
+[http://umwblogs.org UMW Blogs] is running a [http://codex.wordpress.org/Glossary#Multisite WordPress Multisite] installation which allows the Mary Washington community to quickly sign up for and customize their own web publishing space.  By extension, each member of the community can create as many distinct spaces as they like and begin experimenting with this space for teaching and learning.  See the [http://umwblogs.org/wiki/index.php/Ten_ideas_for_using_UMW_Blogs "Ten ideas for using UMW Blogs"] page for examples of how others have used WordPress at UMW.
+
+===How do I get a blog on UMW Blogs?===
+To setup a blog on UMW Blogs go to the [http://umwblogs.org/wp-signup.php sign-up page] and enter a username, e-mail address (you must use your UMW email), and a password. Make sure the "Gimme a site!" radio button is selected.
+
+http://farm7.static.flickr.com/6065/6123825993_feb1541747.jpg
+
+View larger version on Flickr [http://farm7.static.flickr.com/6065/6123825993_fdac1f165b_o.png here].
+
+Once you have done this, you will be taken to a page that asks you to specify a domain (this can be anything you like, however there can be no spaces and no special characters- only letters and numbers), enter a blog title (you can change this later on), and select the privacy settings for your blog. (Note: Once you've setup your blog, you will be able to  [http://umwblogs.org/wiki/index.php/FAQ_WPMu_2.7#How_do_I_deal_with_issues_of_privacy.3F further customize your privacy settings.) ]
+
+http://farm7.static.flickr.com/6182/6077076617_579869c472_z.jpg
+
+View larger version on Flickr [http://farm7.static.flickr.com/6182/6077076617_10ebfceeb7_o.png here].
+
+Once these steps are all completed, you should receive an e-mail confirming that you do, indeed, want a blog. (Be sure to check your Junk Mail folder when looking for the email - sometimes it ends up there.) Click on the link in the e-mail to activate your blog and log into your account.
+
+===How do I just get a username?===
+To just get a username on UMW Blogs go to the [http://umwblogs.org/wp-signup.php sign-up page] and enter a username, e-mail address (you must use your UMW email), and password. Make sure the "Just a username, please" radio button is selected.
+http://farm4.static.flickr.com/3612/3549399828_ecc3526f43.jpg
+View larger version on Flickr [http://www.flickr.com/photos/umwdtlt/3549399828/sizes/o/ here].
+
+===Once I have a blog, where and how do I log in?===
+First things first, where is your blog?  Your individual blogs should be located at the address you specified on [http://umwblogs.org UMW Blogs]. Your initial blog address is determined by the domain you choose when creating your blog. For example, if the domain you chose is "myblog" your blog address will be <nowiki>http://myblog.umwblogs.org</nowiki>. 
+
+If you go to this address, you will see the public "front-end" of your blog. In addition to this view, you have an administrative (private) "back-end" for your blog, where you can add and edit posts/pages, change your theme, activate plugins, and, more generally administer your blog's content and appearance.
+
+There are two ways to  access the administrative back-end of your blog:
+# Go to http://www.umwblogs.org and enter your Username and Password in the "Login" block on the right.
+# Go to your blog's URL and add the following to the end of the address: "/wp-admin" (no quotes) - the address should look like the following:           
+
+      http://myblog.umwblogs.org/wp-admin
+
+Once you are there, you will see two fields asking for your login and password, as pictured below. 
+
+http://farm4.static.flickr.com/3368/3548600759_ef21e8cf30.jpg
+
+View original image on Flickr [http://www.flickr.com/photos/umwdtlt/3548600759/sizes/o/ here]
+
+===How do I change my password?===
+When you sign up for a blog, you will be given an automatically-generated password.  It's a good idea to change your password first thing. To do this, login to your blog, go to the ''Users'' tab on the left side in the administrative back-end, and click on the ''Your Profile'' subtab. From here you can enter your personal information and change your password at the bottom of this page.
+
+http://farm4.static.flickr.com/3084/3569512451_1547125b5e_z.jpg
+
+View larger version on Flickr [http://farm4.static.flickr.com/3084/3569512451_b6dd290443_o.jpg here]
+
+===How do I create my first post===
+From the Dashboard, click on the Posts sub-menu and click Add New.
+
+http://farm7.static.flickr.com/6086/6151035084_6fa3ca4e3f.jpg
+
+
+You need to add a Title for the post, type the text for the post, and finally click the Publish button.
+
+http://farm7.static.flickr.com/6204/6150484819_b46cfc906f_z.jpg
+
+View larger version on Flickr [http://www.flickr.com/photos/umwdtlt/6150484819//sizes/o/ here]
+
+You can always edit the post after you have published it, but once you click the Publish button it is live on the web. You have the option to save the post as a draft until you are ready to go live.
+
+===How do I change my blog title?===
+To change the title of your blog go to the ''Settings'' tab on the left side in the  administrative back-end and you will see a field for blog title as well as a field for the site tagline, which is a space for a brief description of your site. Just type in a new title or tagline and save the changes.
+
+http://farm7.static.flickr.com/6081/6116870765_1c2eb7e43b_z.jpg
+
+View larger version on Flickr [http://farm7.static.flickr.com/6081/6116870765_11fc8566fa_o.png here]
+
+Note: Your tagline is automatically displayed in the header of some, but not all, of the available blog themes in UMW Blogs. If you want your tagline to be visible, be sure to choose a theme with this option.
+
+===How do I deal with issues of privacy?===
+Privacy at UMW Blogs is a major concern, and it is important to realize from the start that the spaces you create here are, by default, open and accessible to the general public. You can password protect individual pages and posts (learn more [http://umwblogs.org/?page_id=92#How_do_I_password_protect_a_page_or_post.3F here]), as well as select more granular privacy settings for your entire blog or website. 
+
+To make your blog or site private, go to the ''Settings-->Reading'' tab on the left side in the administrative back-end and look for the ''Privacy'' section towards the bottom. From here, click on one of the the five options for controlling external access to your space, each of which is detailed in the image below. It is important to keep in mind, however, that if you restrict your privacy settings to members of the UMW Blogs community, registered users, or administrators only, the RSS feed will be disabled (find out more about RSS feeds and what they do [http://umwblogs.org/?page_id=92#What.27s_a_feed.3F here]).
+
+http://farm7.static.flickr.com/6183/6116889199_6f7659cb5b_z.jpg
+
+View larger image on Flickr [http://farm7.static.flickr.com/6183/6116889199_4b7af50b26_o.png here]
+
+===What's the difference between writing a post and writing a page?===
+This is an important terminological/conceptual distinction to grasp, as posts and pages serve radically different functions. A post is an article that shows up in the chronology of your blog.  In other words, posts appear in your blog, most recent at the top of the page. 
+
+A page is what most folks may be more familiar with. This is a static space that is not part of the chronological logic (try saying ''that'' five times fast) of the blog. A page sits outside of this inverted time line, and often features more static content like information about the site, the author, a syllabus, readings, etc.
+
+===What are comments and how do I manage them?===
+Part of the logic of a blog is allowing people to comment on your work.  Comments are often associated with posts (as opposed to pages- see an explanation of this distinction above) and offer a way to have a discussion about a particular post.  
+
+Often times, initial comments are placed in a moderation queue until you approve them. Once you approve a comment from a user, he or she should be able to comment freely thereafter. You can view the comments on your blog as well as those awaiting moderation in the ''Comments'' tab on the left side in the back-end of your blog. If you want to change the permissions for your comments- say allow anyone to comment without moderating- see the ''Settings'' tab and look for the ''Discussion'' subtab. This is where you can control the comment settings.  
+
+Additionally, when writing a post, you can turn off the comments on a post-by-post basis by scrolling down to the ''Discussion'' section below the text entry field when creating a post and un-checking the comments field.
+
+===How do I control the comments, reading, and writing settings on my blog?===
+All of the options for reading, writing, and commenting are housed within the ''Settings'' tab in the administrative back-end of your blog. For example, using the ''Reading'' sub-tab options will allow you to create a static front page for your site rather than the default blog. You can also use the discussion tab to turn off comments on your blog, etc. For more detailed information go [http://umwblogs.org/?page_id=114 here].
+
+===Why do I only see code buttons in the text editor?===
+
+http://farm7.static.flickr.com/6209/6116933413_78ddc5edf9_z.jpg
+
+View original on Flickr [http://farm7.static.flickr.com/6209/6116933413_aff3304939_o.png here].
+
+If for some reason you don't see a visual text editor (as pictured in the image directly above) then this option has been disabled in the ''Users'' tab in the ''Your Profile'' section.
+
+http://farm7.static.flickr.com/6087/6077191369_64c93e9b1a_z.jpg
+
+View larger image on Flickr [http://farm7.static.flickr.com/6087/6077191369_64c93e9b1a_b.jpg here].
+
+In the top-left hand corner of the ''Your Profile'' page there is a check box that says "Disable the visual editor when writing." Make sure this box is unchecked. After that, editing your blog will be much, much more intuitive.
+
+If this does not work, another potential cause of the problem is that you are using Apple's Safari web browser. Try another browser and see if the problem persists.
+
+===How do I add users as authors to my blog?===
+
+1) Go to the administrative backend of your blog, and navigate to the Appearance-->Widgets subtab. Widgets allow you to customize your sidebar.  Add the widget titled "Add Users" (you may also want to add widget like recent posts, recent comments, meta (which is the login link) and anything else that catches your fancy. Also, you can drag the widgets to arrange them as you see fit.  
+
+http://farm7.static.flickr.com/6073/6077220017_14857a1ed1_z.jpg
+
+Click for larger version on Flickr [http://farm7.static.flickr.com/6073/6077220017_415f2b40a0_o.png here]
+
+After that, you should edit the add users widget (click on the edit button) and make it so that those who are added are authors, and no password is required nor a pre-existing list of emails (uncheck box). Then save the new sidebar settings.
+
+http://farm7.static.flickr.com/6208/6116975085_dfd7fe5c29_z.jpg
+
+Click for larger version on Flickr [http://farm7.static.flickr.com/6208/6116975085_eea54394ff_o.png here]
+
+2) Tell the potential authors they need to sign up for a username at umwblogs.org (if they already have a blog or username on UMW Blogs they can skip this step).
+
+3) Now anyone who has an account on UMW Blogs can login, then navigate to your blog and click on the "Add Me" button in the sidebar of your blog and immediately have privileges to post on your site (if you are already logged in as an author, you won't see the "Add me" button, but a Welcome, Jane Doe message). Users who add themselves to your blog will not have administrator privileges, just permissions as an author and will be able to write posts.
+
+http://farm7.static.flickr.com/6140/5978247529_9b298f5b79.jpg
+
+===What's a feed?===
+A feed is a way to subscribe to blog posts, comments, etc.  You can subscribe to a feed use an RSS reader such as [http://www.google.com/reader/ Google Reader].  To find out more about this RSS thing click [http://umwblogs.org/?page_id=92#What_is_this_RSS_stuff.3F here].
+
+===What is this RSS stuff?===
+Why listen to me?  [http://www.youtube.com/watch?v=0klgLsSxGsU Watch the movie that explains RSS in plain English...]
+
+===How do I upload a document and place it in a post or page?===
+You can easily upload documents, such as a course calendar or syllabus, into a post or page. Go to ''Posts'' '''&rarr;''' ''Add New'' and look for the "Add media" button that looks like a gray asterisk, as pictured below.
+
+http://farm7.static.flickr.com/6063/6127574411_ee69d92130_z.jpg
+
+Click for larger version on Flickr [http://farm7.static.flickr.com/6063/6127574411_c3ca9d5dbd_o.png here].
+
+When you click on that button, a dialog box will appear offering you the option to upload a file from your hard drive. Once you have located your file (whether on your hard drive or online) click on the "Upload" button.
+
+http://farm3.static.flickr.com/2430/3545737607_85fefa4527.jpg
+
+Click for larger version on Flickr [http://www.flickr.com/photos/umwdtlt/3545737607/sizes/o/ here].
+
+Or if you want to link directly to a file that is already online just click on the ''From URL'' tab and insert the URL. Make sure the "File URL" button is clicked and then click "Insert into Post" button.
+
+http://farm3.static.flickr.com/2170/3546543874_703a116259.jpg
+
+Click for larger version on Flickr [http://www.flickr.com/photos/umwdtlt/3546543874/sizes/o/in/photostream/ here].
+
+If uploading a file from your hard drive, you will get a dialog box asking you to title the document, as well as to provide a caption and description (both of which are optional).  Once you are done, make sure the "File URL" button is clicked and then click "Insert into Post" button.
+
+http://farm4.static.flickr.com/3129/2717395133_a3b402e7cb.jpg
+
+Click for larger version on Flickr [http://www.flickr.com/photos/umwdtlt/2717395133/sizes/o/ here].
+
+===How to Embed PDFs on UMW Blogs ===
+UMW Blogs has default support for uploading and linking to PDF files. To accomplish that simply follow the [http://umwblogs.org/wiki/index.php/FAQ_WPMu_2.7#How_do_I_upload_a_document_and_place_it_in_a_post_or_page.3F directions outlined here] which are the same for uploading and linking to Word, Powerpoint, and other document types.
+
+Google Docs allows you the ability of using an embeddable viewer to display your PDF directly inside your website, allowing users to view the document without ever downloading it. Here is how to accomplish that.
+
+1. You will first need to upload the PDF file to your website. To do this follow the same directions linked above for uploading any media to UMW Blogs. You'll use the same Media Uploader interface to upload your PDF file. Once you get to this screen, stop.
+
+http://i.imgur.com/b0EPa.png
+
+2. Copy the Link URL that UMW Blogs assigns to your PDF after you've uploaded it.
+
+3. Go to&nbsp;[https://docs.google.com/viewer https://docs.google.com/viewer]&nbsp;and paste that link into the first field on that site and click "Generate"
+
+4. The site will generate an embed code (along with a few other options for linking to the PDF file) as you see below. Copy all of the text under "For an embedded viewer, use this HTML tag instead:"
+
+http://i.imgur.com/RV9QV.png
+
+5. Go back to the post/page you are editing on UMW Blogs. Make sure you are set to HTML view in the editor (located in the top righthand corner of the editing field. Paste the embed code into your post/page and Publish or Update to see how it looks.
+
+6. If you would like to resize the embed code you can adjust the "width" and "height" attributes in the code that you pasted. Different sizes will work better for different themes.
+
+===How do I upload an image and place it in a post or page?===
+As with documents, you can easily upload and insert an image from your hard drive into a post or page. Go to ''Posts'' '''&rarr;''' ''Add New'' and look for the "Add Image" button that looks like a picture canvas.
+
+http://farm7.static.flickr.com/6193/6128153172_a74da59142_z.jpg
+
+Click for larger version on Flickr [http://farm7.static.flickr.com/6193/6128153172_283a5eaf20_o.png here].
+
+When you click on that button, a dialog box will appear offering you the option to upload an image from your hard drive. Or if you want to link directly to an image that is already online you can click on the "From URL" tab. Once you have located your file (whether on your hard drive or online) click on the "Upload" button and for images on the "From URL" tab you will click "Insert into Post" button.
+
+If uploading an image from your hard drive, you will get a dialog box asking you to title the image, as well as to provide a caption and description (both of which are optional).  Once you are done, click on the "Insert into Post" button and you are done.  
+
+http://farm7.static.flickr.com/6070/6127630853_d54e434cac_z.jpg
+
+Click for larger version on Flickr [http://farm7.static.flickr.com/6070/6127630853_7e0a8042d0_o.png here].
+
+===How much upload space do I have on UMW Blogs?===
+As of now you have '''500 MB''' of upload space.  If you need more, please [http://umwblogs.org/contact contact us] with the details.
+
+Additionally, you cannot upload a single file that is larger than '''30 MB'''.
+
+If you are uploading large pdf files or images it may be preferable to use an outside service that you can integrate with UMW Blogs, such as [http://flickr.com Flickr] for your photos, [http://youtube.com YouTube] for your videos,  and/or [http://divshare.com DivShare] for your files. This is probably the best practice, because if you ever want to move your blog to another service you will have persistent links to documents, videos, and images that you will not have to update for the blog when it is moved.
+
+===Why should I consider using external services to store my images and documents?===
+
+You have '''500 MB''' of upload space. This will not be enough if you are uploading large pdf files, videos, or images. It may be preferable to use an outside service that you can integrate with UMW Blogs such as [http://flickr.com Flickr] for your photos, [http://youtube.com YouTube] for your videos,  or [http://dropbox.com DropBox] for your files. This is probably best practice because if you ever want to move your blog to another service you will have persistent links to videos, documents, and images that you will not have to update to the new blog/site URL.
+
+===How do I import my existing blog to UMW Blogs?===
+You can import a blog from numerous other blogging platforms such as WordPress, Tumblr,  Blogger, LiveJournal, and RSS (which is a format not a platform).  
+
+http://farm7.static.flickr.com/6075/6128197564_f2dbae03a9_z.jpg
+
+Click for larger version on Flickr [http://farm7.static.flickr.com/6075/6128197564_0efaca7a39_o.png here].
+
+'''Note''': To import your blog from an application other than WordPress, please read your respective blogging platforms details for exporting your data. For information on exporting data from WordPress read more [[How do I export my data from UMW Blogs?|here]].
+
+Once you have exported your data from your blog, go to the ''Tools'' '''&rarr;''' ''Import'' subtab.  From here click on the respective blog type you are importing. Browse for the file (which will most likely be an XML file) and click "import". 
+
+http://farm7.static.flickr.com/6077/6127657241_84ab8803c7_z.jpg
+
+Click for larger version on Flickr [http://farm7.static.flickr.com/6077/6127657241_f09f63ccaa_o.png here].
+
+Once you're done here, you will be taken to a page that will ask you to map authors. If you are importing a blog with numerous contributors, you may want to allow each author to be associated with their respective blog posts. After that, click the "submit" button and the import should begin immediately. 
+
+'''One note of caution''': Depending on your blog application, you may not be able to import pages, links, and theme customization. If you need further help with this, please use the [http://umwblogs.org/contact contact form] to describe your issue, and we'll get back to you shortly.
+
+===How do I export my data from UMW Blogs?===
+Exporting your blog from UMW Blogs is easy, but there are some important issues you may want to keep in mind, so be sure to read this entire article!
+
+http://farm7.static.flickr.com/6186/6127744137_395653e3ee_z.jpg
+
+Click for larger version on Flickr [http://farm7.static.flickr.com/6186/6127744137_bace29d5ed_o.png here].
+
+To export your data from UMW Blogs, you need to do an export for your blog (or an individual export for each and every blog you have on this service).  You do this in the ''Tools'' '''&rarr;''' ''Export'' subtab.  When you export your blog you will be given an XML file that stores all of the posts, pages, and comments for your entire blog. 
+
+'''Important''': If your blog has a series  or documents that you uploaded directly to UMW Blogs, you will need to [http://umwblogs.org/contact contact us] in order to get copies of all those files. Once you have these files and upload them to your new space, be sure to change the URLs to reflect the location of your blog. Additionally, you will need to update the URLs to images and documents in  your new blog in order for them to work. This might all be avoided if you use a third-party service like [http://flickr.com Flickr] for images and [http://docs.google.com Google Docs] for documents to avoid chasing broken URLs, as these links to images and documents will not change even if your blog address does- very convenient when moving your data.
+
+===What's a plugin?===
+A plugin is a third-party application that interacts with WordPress to provide a certain, usually very specific, function for your blog or web space. For example, if you have a [http://flickr.com Flickr] account you can use the flickrRSS plugin to bring photos into your blog space.
+
+===How do I make my front page a static page rather than a blog?===
+To make your front page a static page rather than a blog you need to create a static page that you would like as your front page.  Then go into the ''Settings'' tab and then click on the ''Reading'' subtab.  Once you do this you will see the following:
+
+http://farm7.static.flickr.com/6195/6128320980_db61ba49ec_z.jpg
+
+Click for larger version on Flickr [http://farm7.static.flickr.com/6195/6128320980_a8f7e3df9c_o.png here].
+
+Instead of having the front page display your latest posts, select the radio button that says "static page" and select the page you created for the front page.  Additionally, you can create another page where you would like your blog posts to appear. This is extremely useful when you would like to create a resource more akin to a traditional page rather than a blog, while maintaining the functionality of both.
+
+'''Important''': When using certain themes you may find that when you try this option you have two tabs in the header that both point to the front page.  Depending on the theme this may cause you some concern in terms of the presentation. If you are having this problem, we recommend you use the [http://umwblogs.org/wiki/index.php/Custom_Menus_Tutorial Custom Menu tutorial] to customize the navigation menus.
+
+===How do I make my blog look different?===
+You can change the look and feel of your blog using the ''Appearance'' tab. When you click on the ''Appearance'' tab you'll notice you have over 200 themes for your site to choose from. 
+
+http://farm7.static.flickr.com/6200/6128339802_5973b81429_z.jpg
+
+View larger version of the original image on Flickr [http://farm7.static.flickr.com/6200/6128339802_b6b2c561b1_o.png here].
+
+A new feature of the latest version of WordPress paginates the themes and provides users with a preview of each theme that they can either activate or close and select another theme to preview.
+
+http://farm7.static.flickr.com/6070/6127806505_1fc5990eca_z.jpg
+
+View larger version of the original image on Flickr [http://farm7.static.flickr.com/6070/6127806505_808dab2d61_o.png here].
+
+If you need to do specific customizations of your theme for whatever reason, this is possible. Just contact your Instructional Technology Specialist for more details or contact us [http://umwblogs.org/contact here]. To read more specifics about selecting themes, what specific themes provide you with, and the ways in which you can customize your theme click [http://umwblogs.org/?page_id=114#Design_Tab here].
+
+===How do I add a custom image to the header of my blog?===
+Not all of the themes provided by UMW Blogs allow you to add a custom header image. In fact, each theme has its own options through which you can customize the look and feel of your blog, so the theme, in effect, is much more than just look and feel- it is also functionality and possibility. Check under the Appearance tab for the theme's options to see if you can upload a customized header image.
+
+===What are widgets?===
+“Widgets” is just a silly term for the functionality built into WordPress that allows you to customize the sidebar of your WordPress site without knowing HTML. You can use widgets to add a list of recent photos, comments, flickr photos, del.icio.us links, and much more. You can find your widgets in the ''Appearance'' '''&rarr;''' ''Widgets'' subtab. You may also get access to more widgets as you activate new plugins, for many of the plugins available have an associated widget, such as flickrRSS.
+
+http://farm7.static.flickr.com/6086/6128396758_745aaeaa19_z.jpg
+
+Click for original, larger version on Flickr [http://farm7.static.flickr.com/6086/6128396758_25d4921ca3_o.png/ here].
+
+===How do I get an avatar?===
+Go to [http://gravatar.com GRavatar] and associate an avatar of your choice with the email you use on UMW Blogs. GRavatar is an external service that links avatars with e-mail addresses so that anytime you comment on another blog with that e-mail address your avatar will show up if enabled on that particular blog. 
+
+http://farm8.staticflickr.com/7265/7742015362_8987102fe5.jpg
+
+All UMW Blogs sites provide the ability to enable GRavatars. Just go to ''Appearance'' '''&rarr;''' ''GRavatar'' and check the "Enable Gravatars on your blog" button.
+
+===How do I deal with spam?===
+Spam is the bane of any respectable blogger's existence. Luckily we have ways of dealing with these parasites. UMW Blogs uses the spam filtering service [http://akismet.com/ Akismet] to manage spam comments and trackbacks. If you are getting spam comments, please contact us  [http://umwblogs.org/contact here] and we will look into it immediately.
+
+===How do I password protect a page or post?===
+Password protecting a post or page is quite simple.  All you need to do is look for the ''Visibility'' option (which by default is public) in the ''Publish'' box and click the Edit link. Once there you have the option to make the post password protected by clicking on the radio button. Once clicked it will prompt you to put in a password. It can be whatever you want it to be, but if you want others to see what is in this page or post, you will have to share the password with them.
+
+http://farm7.static.flickr.com/6190/6144619483_67141fdf95_o.png
+
+Click for original, larger version on Flickr [http://farm7.static.flickr.com/6190/6144619483_67141fdf95_o.png here].
+
+===How do I embed videos?===
+You have at least  three options for embedding videos. And, in truth, embedding a video from most online video services has never been easier.
+
+====WordPress Automatically converts video links to an embedded video====
+All you need to do to embed something into a post or page is to post the URL to it into your content area. Make sure that the URL is on its own line and not hyperlinked (clickable when viewing the post).
+
+For example:
+
+   Check out this cool video
+   <nowiki>http://www.youtube.com/watch?v=nTDNLUzjkpg</nowiki>
+
+
+WordPress will automatically turn that into a YouTube embed when the post is viewed. If it is not working check the "Auto-embeds" check box in Settings > Media SubPanel to make sure the appropriate settings is checked.
+
+http://farm8.staticflickr.com/7111/7742189458_99864d61b6_z.jpg
+
+What Sites Can I Embed From?
+*YouTube (only public videos and playlists - "unlisted" and "private" videos will not embed)
+*Vimeo
+*DailyMotion
+*blip.tv
+*Flickr (both videos and images)
+*Viddler
+*Hulu
+*Qik
+*Revision3
+*Scribd
+*Photobucket
+*PollDaddy
+*WordPress.tv (only VideoPress-type videos for the time being)
+*SmugMug (WordPress 3.0+)
+*FunnyOrDie.com (WordPress 3.0+)
+*Twitter (WordPress 3.4+)
+
+====Using Visual Editor to Embed Videos====
+http://farm8.staticflickr.com/7138/7742144782_393de86f08.jpg
+
+In the visual editor their are a series of video services icons, such as YouTube, Vimeo, DailyMotion, etc. Click on the appropriate icon and a dialog box will appear asking for the videos URL. Copy the URL, but make sure this isn't a shortened URL such as youtu.be. That's it!
+
+====Copy and Paste Embed Code====
+This is simply a process of copying the embed code from a site like [http://youtube.com YouTube] into the HTML tab of the text editor.
+
+http://farm7.static.flickr.com/6201/6145261908_ca6bc79f03_z.jpg
+
+View larger, original version on Flickr [http://farm7.static.flickr.com/6201/6145261908_ae722f05bf_o.png here].
+
+===How do I copy and paste word documents?===
+
+Click on the button the arrow is pointing to below- affectionately termed the "Kitchen Sink"- in order to get additional options for your editing toolbar.
+
+Go from this:
+
+http://farm8.staticflickr.com/7138/7742268242_53dabc1518_z.jpg
+
+to this:
+
+http://farm9.staticflickr.com/8305/7742268372_9fb08d0884_b.jpg
+
+
+After following the step above you will see an icon with the MS Word icon in your visual text editor (which the arrow is pointing to). Click on this and copy the Word Document text into this window and save it. This strips out all the MS Word  code and "cleans" the text for publishing on WordPress. There may be some minor formatting you have to update afterwards, but most of the formatting from MS Word should remain intact.
+
+===How do I map my own domain to my UMW Blog?===
+'''Note:''' these instructions are for [http://godaddy.com Godaddy.com], though they should apply to just about any company that sells domains.
+
+After you have registered a domain (and assuming you are logged into GoDaddy)  hover over the My Account tab on the far right and click "Account Summary"
+
+http://farm7.static.flickr.com/6183/6130882842_1abbf911e3.jpg
+
+Once in the "Account Summary" page, click the link on the left that reads Domains/Domain Manager on the left.
+
+http://farm7.static.flickr.com/6064/6130882704_3933972388_z.jpg
+
+From there you will be taken to your domain (or a list of your domains, depending on how many you have registered.) Click on the Domain you want to edit and you should see the following screen.  Scroll down to DNS manager, then click Launch
+
+http://farm7.static.flickr.com/6199/6130882618_d3f75a288c_z.jpg
+
+You will then be taken to the following screen, hover over the section indicated by the arrow and a pencil icon will appear next to the IP address.  Click that.
+
+http://farm7.static.flickr.com/6189/6130874238_97c48fb7d3_z.jpg
+
+After that, leave everything as is, except enter the IP address 174.37.153.244 into the "Points to IP address field"
+
+
+After that, click OK and you are all done with the GoDaddy settings. Now go back to the UMW Blog you want to map a domain upon, and go to the Tools-->Domain Mapping sub-tab and enter the domain address in the appropriate field. Click Add, and your new domain should be mapped.
+
+http://farm4.static.flickr.com/3656/3548634337_ec798ebc3d_o.png
+
+If for any reason this didn't work, go back into the back end by clicking the back button and go to Tools-->Domain Mapping and delete the mapped domain and contact Jim Groom at jgroom_at_umw.edu
+
+===There's an error message on my blog.  What do I do?===
+If you are coming across an error message on the sidebar or in the header of your blog please use the [http://uwmblogs.org/support contact form] to send us the exact verbiage of that message, when it happened, and your blog address so that we can research and fix the problem promptly.
+
+===How do I delete my blog?===
+Deleting a blog on UMW Blogs is simple. Go into the administrative back-end of your blog and click on the '''Tools''' tab. From there select the '''Delete Site''' subtab and check the box and click on the ''Delete My Blog Permanently'' button. 
+
+Once you have done this, you will receive a confirmation e-mail at your UMW address to re-confirm that you want to delete your blog. Just click on the link and your blog will be history. Keep in mind that there is no way to get it back once you have confirmed this deletion.
+
+http://farm4.static.flickr.com/3320/3549456160_809bf2b8fd.jpg
+
+Click for larger, original image on Flickr [http://www.flickr.com/photos/umwdtlt/3549456160/sizes/o/ here].
+
+===How do I get more help for issues not listed here?===
+If there is an issue or question you have that you don't see here, then [http://umwblogs.org/contact contact us] and we'll be sure to both answer your question as well as update this knowledge base so that everyone can benefit from your contribution (anonymously, of course).
