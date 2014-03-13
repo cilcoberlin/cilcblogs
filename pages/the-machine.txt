@@ -1,0 +1,42 @@
+This tutorial is meant to help student aides for the history department use the bizhub423 (the Behemoth). The Behemoth has a host of different options and the online guides for it are rather lacking. In this guide you will be able to find how to do some of the basic functions and use adobe software to edit what you scan. 
+
+==== Scanning ====
+
+The Behemoth has a host of options for scanning from selecting types of files to sizing for the scan.  Despite all of the buttons and options, scanning can in fact be straightforward. You will most likely have to deal with bound books, which just so happens to be one of the more difficult items to scan.
+
+=== Basics ===
+
+  * USB & Passcode
+Once you have the item you need to scan, you will need to retrieve a flash drive from either the student aide desk or Lisa Patton. You'll also require the passcode to start up the Behemoth. The port for the flash drive on the Behemoth is located to the Right side (from your perspective), just behind the main interface of the scanner. Keep in mind that the flashdrive will be labeled as "External Memory" on the various screens.
+
+  - Insert Flashdrive
+  - Click Save to External Memory
+
+  * User Box and Settings
+
+Next click the "User Box" button in order to select the external memory from the "System User Box" tab as the location for your scanned documents. Once you've selected external memory, hit "Save Document". The start button should start to shine blue, but be sure to work with the scan settings before beginning. Otherwise you will have a one page pdf file. Clicking on scan settings will give you this screen. -Insert Image- Be sure to 
+click **Separate Scan**. You're ready to get scanning. NOTE: There are a host of other formats that you can use to scan. The common format is pdf, which is currently the Behemoth's standard setting.
+
+  - Click User Box
+  - Hit the System User Box Tab
+  - Select External memory
+  - Save Document
+  - Tap Scan Settings and set to Separate Scan
+
+=== Sizing ===
+Another common issue is how to select the proper size for your scans. If you are working with books you will most likely need specific settings. The scanner has an auto detect function, however the auto setting does not frequently pick up larger books. In order to get the appropriate size place the book face down on the glass and note the size markers. Proceed to **scan settings** and click "Scan Size". You can either enter size by **dimensions** or **alpha-numerical**. If you have an unusual size book (i.e. one that does not fit the pre-set sizes), you can select "Custom Size" and use the markers to measure exactly what size you require.
+
+Once you have set the size of the page and started scanning, you cannot adjust the size without exiting or finishing your current set. In cases where you wish to only scan one page, simply scan both and crop in the adobe acrobat program.
+  - In scan settings click scan size
+  - Use the first page for dimension setting or
+  - Use the alpha-numerical settings 
+  - If you have a different size select custom size
+
+=== Finalizing Your Scan ===
+
+Once you have scanned all of the documents, simply click **Finish** and then hit the start button to begin transmitting the documents to the external memory. NOTE: You can preview these documents if you save the pdf on the hard disk of the scanner, however getting the documents transferred to the flashdrive is horrifically slow.
+
+==== Editing ====
+The student aide computer has a copy of adobe acrobat pro 9 for your use. When scanning for faculty members you will typically only have to worry about cropping and combining pdf documents. The program is extremely straightforward. From the top tool bar select **tools>>advanced editing>>crop tool**. You should now be able to select what you want to have saved and crop the rest. Be aware that the crop tool selects what will be saved not cropped. If you notice that the pdf has larger black areas around the corner, you may want to consider redoing some of your scans.
+
+==== Troubleshooting and Reloading ====
