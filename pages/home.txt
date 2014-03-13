@@ -1,1 +1,26 @@
-====== Documentation for UMW Blogs ======
+__notoc__
+==='''UMW Blogs Support'''===
+
+*'''[[FAQ|Frequently Asked Questions]]''' (FAQ): A list of common issues and solutions that may help you find an answer to your questions. If your question is not listed [http://umwblogs.org/wiki/index.php/FAQ here], use the [http://umwblogs.org/contact contact form] to report your issue. 
+
+*'''[[Step-by-step guide for using WordPress|A step-by-step guide for WordPress]]''': An extensive guide to the publishing framework of WordPress. Offering a detailed overview of the administrative backend of this application. 
+
+*'''[[Ten ideas for using UMW Blogs|10 Ways to use UMW Blogs]]''':  A list of ten ideas to use UMW Blogs for teaching, learning, and beyond. Featuring examples from throughout the UMW community.
+
+*'''[[Courses, Spring 2014|Courses Spring 2014]]''': List of Courses using UMW Blogs during the Spring 2014 Semester. For a list of all courses using UMW Blogs since 2008 see the comprehensive list [[List of Courses | here]].
+
+*'''[[More resources]]'''
+
+===Notes===
+* You can find professor Steve Greenlaw's wiki [http://stevegreenlaw.org/profgwiki/ here].
+*And you can find Professor Chris Foss's wikis [[Chris Foss's Homepage|here]].
+*Find Prof. Matthew Johnson's Long Civil Rights Movement Course [[Long Civil Rights Movement|here]]
+*Find Prof. Matthew Johnson's History of Human Rights course  [[History of Human Rights|here]]
+*Jim Groom's [[Hardboiled Syllabus, Fall 2012]]
+*Jim Groom's [[Hardboiled Course Calendar, Fall 2012]]
+* Jeff McClurken's [[US History in Film, Fall 2012]]
+* Jeff McClurken's [[Remembering the American Civil War, Spring 2013]]
+* Jeff McClurken's [[US Women's History to 1870, Fall 2013]]
+* Jeff McClurken's [[History of US Mental Institutions, Fall 2013]]
+*Voice Thread Tutorial [[Voice Thread Tutorial]]
+* Literary Journals Resources [[Literary Journals]]
