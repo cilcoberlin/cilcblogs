@@ -1,0 +1,28 @@
+==Custom Menu Tutorials==
+This tutorial will discuss how to use the custom menus along with a short description on how custom menus can aid you in more clearly organizing your site. 
+
+The custom menus can be activated by going into the backend of your site. The example site for the tutorial is http://fail.umwblogs.org. In your main menu, you will see an option for custom menus, go ahead and click that which will take you to another page:
+
+http://farm5.static.flickr.com/4094/4927430080_04a1c221ce.jpg
+
+http://farm5.static.flickr.com/4101/4927430110_a19951cdb8.jpg
+
+At this point we can create a custom menu which will make use of any user-crated categories. Another excellent addition is the use of other websites URLs as a menu option. After you click save on the main screen, you can then select our newly created menu. 
+
+http://farm5.static.flickr.com/4117/4926834765_8409a4d3f8.jpg
+
+Refresh your page and you now have slick tabs along your header. 
+
+http://farm5.static.flickr.com/4073/4927430458_9bfe9421a3.jpg
+
+If you are not interested in having tabs in your header, you can turn off your custom menu and move towards the widgets (under appearance) option. From there, simply activate the custom menus option and drag it to where you want it on your page. You can now see that the menus are no longer in the header, but in our sidebar.
+
+1: Moving to the widgets option
+
+2: Selecting the custom menu widget
+
+http://farm5.static.flickr.com/4142/4926834601_b51888f677.jpg
+
+3: Revisit your page to see your new sidebar menu
+
+http://farm5.static.flickr.com/4082/4926835127_e84f1c70df.jpg
