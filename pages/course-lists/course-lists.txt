@@ -1,3 +1,5 @@
+{{indexmenu_n>6}}
+
 #Course Lists
 
 * [[Spring 2014 Course List|Spring 2014]]
