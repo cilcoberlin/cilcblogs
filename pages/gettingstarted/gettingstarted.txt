@@ -6,6 +6,3 @@
 * [[Signing Up for a Username|Signing Up for a Username (Only)]]
 * [[Creating a Blog]]
 * [[Signing Up for a Username and Blog]]
-* [[Logging In]]
-* [[Changing Your Password]]
-* [[Creating a GRavatar]]
