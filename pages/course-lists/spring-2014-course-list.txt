@@ -8,17 +8,11 @@
 ==== Biology ====
   * Steve Gallik's [[http://histologyolm.umwblogs.org/ | Biology 331: Histology Lab]]
 
-==== Chemistry ====
-  * (none)
-
 ==== Classics, Religion, and Philosophy ====
   * David Ambuel's [[http://meditation.umwblogs.org/ | CPRD 100: Contemplative Practice]]
 
 ==== Computer Science ====
   * Jim Groom and Paul Bond's [[http://theinternetcourse.net | Computer Science 104: The Internet]]
-
-==== Digital Studies ====
-  * (none)
 
 ==== Earth & Environmental Science ====
   * Melanie Szulczewski's [[http://envproblems2014.umwblogs.org/ | Earth & Environmental Science 230: Environmental Problems]]
@@ -39,11 +33,8 @@
   * Zach Whalen's [[http://elit.umwblogs.org/ | English 376VV: Electronic Literature]]
 
 ==== Freshman Seminars ====
-  * JeanAnn Dabb's [[http://hitchcock.umwblogs.org/ | Freshman Seminar 100J6: Hitchcock: Master of Suspense]]
   * Nabil Al-Tikriti's [[http://genocide.umwblogs.org/ | Freshman Seminar 100J9: History of Genocides]]
-
-==== Geography ====
-  * (none)
+  * JeanAnn Dabb's [[http://hitchcock.umwblogs.org/ | Freshman Seminar 100J6: Hitchcock: Master of Suspense]]
 
 ==== Historic Preservation ====
   * Gary Stanton's [[http://hisp102.umwblogs.org/ | Historic Preservation 102: Preserving Historic America]]
@@ -70,9 +61,6 @@
   * Jess Rigelhaupt's [[http://amst201sec2s14.umwblogs.org/ | American Studies 201: Introduction to American Studies, Section 2]]
   * Jess Rigelhaupt's [[http://amst202s14.umwblogs.org/ | American Studies 202: The Politics and Culture of the 1960s]]
 
-==== Honors ====
-  * (none)
-
 ==== Modern Foreign Languages ====
   * Betsy Lewis's [[http://span413.umwblogs.org/ | Spanish 413: Advanced Writing]]
 
@@ -81,8 +69,9 @@
 
 ==== Political Science and International Affairs ====
   * Stephen Farnsworth's [[http://massmedia.umwblogs.org/ | Political Science 363: Mass Media Politics]]
-  * Ranjit Singh's [[http://irtheory.umwblogs.org/ | Political Science 491: IR Theory]]
   * Surupa Gupta's [[http://indianforeignpolicy.umwblogs.org/ | Political Science 471Y: Indian Foreign Policy]]
+  * Ranjit Singh's [[http://irtheory.umwblogs.org/ | Political Science 491: IR Theory]]
+
 
 ==== Psychology ====
   * Mindy Erchull's [[http://psychofwomenspring2014.umwblogs.org/ | Psychology 350: Psychology of Women]]
@@ -90,6 +79,3 @@
 ==== Sociology ====
   * Traci Citeroni's [[http://qrm2014spring.umwblogs.org/ | Sociology 365: Qualitative Research Methods]]
   * Traci Citeroni's [[http://illnessnarratives.umwblogs.org/ | Sociology 371Q: Illness Narratives in Social Research]]
-
-==== Theatre ====
-  * (none)
