@@ -2,10 +2,6 @@
 
 #Archives
 
-  * [[Fall 2006 Course List|Fall 2006]]
-  * [[Spring 2007 Course List|Spring 2007]]
-  * [[Fall 2007 Course List|Fall 2007]]
-  * [[Spring 2008 Course List|Spring 2008]]
   * [[Fall 2008 Course List|Fall 2008]]
   * [[Spring 2009 Course List|Spring 2009]]
   * [[Summer 2009 Course List|Summer 2009]]
