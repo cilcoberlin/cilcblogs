@@ -1,4 +1,6 @@
-====== Getting Started ======
+{{indexmenu_n>1}}
+
+#Getting Started
 
 * [[10 Ways to Use UMW Blogs]]
 * [[Signing Up for a Username]]
