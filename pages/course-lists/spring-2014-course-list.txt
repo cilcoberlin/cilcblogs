@@ -1,3 +1,5 @@
+{{indexmenu_n>1}}
+
 #Spring 2014
 
 ==== Art & Art History ====
