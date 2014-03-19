@@ -15,7 +15,7 @@
   * Craig Vasey's [[http://phil342.umwblogs.org/|Philosophy 342: Phenomenology]] 
 
 ====Computer Science====
-  * Martha Burtis and Alan Levine's [[http://ds106.us|CPSC 106: Digital Storytelling, Section 1]] (sections 1 & 2)
+  * Martha Burtis and Alan Levine's [[http://ds106.us|CPSC 106: Digital Storytelling]] (sections 1 & 2)
   * Jennifer Polack-Wahl's [[http://cpsc310.umwblogs.org/|Computer Science 310]] 
 
 ====English, Linguistics and Communication====
