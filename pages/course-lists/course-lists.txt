@@ -2,10 +2,10 @@
 
 #Course Lists
 
-==Current Courses==
+== Current Courses ==
 * [[Spring 2014 Course List|Spring 2014]]
 
-==Archives==
+== Archives ==
 * [[course-lists:archives:Fall 2013 Course List|Fall 2013]]
 * [[course-lists:archives:Spring 2013 Course List|Spring 2013]]
 * [[course-lists:archives:Fall 2012 Course List|Fall 2012]]
