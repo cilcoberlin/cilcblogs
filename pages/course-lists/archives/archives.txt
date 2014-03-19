@@ -2,7 +2,7 @@
 
 #Archives
 
-These pages archive lists of all courses that have used UMW Blogs since Fall of 2008. If you know of a course that was taught on UMW Blogs for any semester that we don't have listed here, please send the info to Ryan Brazell (rbrazell@umw.edu).
+These pages archive the courses taught using UMW Blogs since Fall of 2008. If you know of a course that was taught on UMW Blogs for any semester that we don't have listed here, please send the info to Ryan Brazell (rbrazell@umw.edu).
 
   * [[Fall 2008 Course List|Fall 2008]]
   * [[Spring 2009 Course List|Spring 2009]]
