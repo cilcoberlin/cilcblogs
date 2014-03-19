@@ -1,3 +1,3 @@
 {{indexmenu_n>2}}
 
-#Signing Up for a Username
+#Signing Up for a Username Only
