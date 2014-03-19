@@ -1,4 +1,6 @@
-#Account and Profile Updates
+{{indexmenu_n>2}}
+
+#Account & Profile Updates
 
 * [[Logging In]]
 * [[Changing Your Password]]
