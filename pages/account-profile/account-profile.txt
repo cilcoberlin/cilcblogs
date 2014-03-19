@@ -1,4 +1,4 @@
-#Account and Profile Guides
+#Account and Profile Updates
 
 * [[Logging In]]
 * [[Changing Your Password]]
