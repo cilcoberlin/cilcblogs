@@ -22,7 +22,7 @@
 
 ====Computer Science====
   * Ernie Ackermann's [[http://cpsc110.umwblogs.org/|CPSC 110: Introduction to Computer Science]] 
-  * Ernie Ackermann's  [[http://cpsc401.umwblogs.org/ CPSC 401: Organization of Programming Languages]] 
+  * Ernie Ackermann's [[http://cpsc401.umwblogs.org/|CPSC 401: Organization of Programming Languages]] 
   * Martha Burtis' [[http://digsto.umwblogs.org/|Digital Storytelling]] (section 2)
   * Jim Groom's [[http://ds106.us|CPSC 106: Digital Storytelling]] (sections 3 & 4)
   * Jeremy Robinson's [[http://cpsc125.umwblogs.org/|CPSC 125: Introduction to Discrete Mathematics]] 
