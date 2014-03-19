@@ -1,3 +1,6 @@
 {{indexmenu_n>2}}
 
 #Archives
+
+  * [[Spring 2013 Course List|Spring 2013]]
+  * [[Fall 2012 Course List|Fall 2012]]
