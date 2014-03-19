@@ -1,1 +1,9 @@
-====== Getting Started with UMW Blogs ======
+====== Getting Started ======
+
+* [[10 Ways to Use UMW Blogs]]
+* [[Signing Up for a Username]]
+* [[Creating a Blog]]
+* [[Signing Up for a Username and Blog]]
+* [[Logging In]]
+* [[Changing Your Password]]
+* [[Creating a GRavatar]]
