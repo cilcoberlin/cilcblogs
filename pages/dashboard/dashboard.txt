@@ -1,3 +1,5 @@
 {{indexmenu_n>10}}
 
 #UMW Blogs Dashboard
+
+Welcome to UMW Blogs! Below, find links and other information to help you get started in using the system.
