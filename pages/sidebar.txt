@@ -1,3 +1,3 @@
-CILC Blogs is managed  by the <a href="http://languages.oberlin.edu">Cooper International Learning Center</a> at <a href="http://oberlin.edu">Oberlin College</a>.
+CILC Blogs is managed  by the [[http://languages.oberlin.edu | Cooper International Learning Center]] at [[http://oberlin.edu | Oberlin College]].
 
 {{indexmenu>..#1| navbar nocookie msort nsort}}
